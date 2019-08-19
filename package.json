@@ -1,0 +1,26 @@
+{
+  "name": "js-starter-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate for simple JS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavocardoso/js-starter-boilerplate.git"
+  },
+  "keywords": [
+    "js",
+    "starter",
+    "boilerplate",
+    "app",
+    "dev"
+  ],
+  "author": "Gustavo Cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavocardoso/js-starter-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gustavocardoso/js-starter-boilerplate#readme"
+}
